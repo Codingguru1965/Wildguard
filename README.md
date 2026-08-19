@@ -1,30 +1,56 @@
-# 🌿 WildGuard - Wildlife Conservation Initiative
+# 🌿 WildGuard - Wildlife Conservation
 
-A modern, highly interactive, and fully responsive Single Page Application (SPA) dedicated to wildlife conservation and global habitat protection. 
+A modern and responsive **React.js Single Page Application** focused on wildlife conservation and environmental awareness.
 
-## 👨‍💻 Developed By / Team
-* **Ankit Yadav** - *Frontend Developer* (Sole contributor for this project)
+## 🚀 Live Demo
 
-## 🚀 Features
-* **Single Page Application (SPA):** Seamless smooth scrolling between sections without page reloads.
-* **Interactive Hero Section:** Eye-catching typewriter text effects for dynamic messaging.
-* **Scroll Animations:** Beautiful fade and zoom animations triggered on scroll using AOS.
-* **Custom Animated Counters:** Number counters that animate from zero to target values using a custom `IntersectionObserver` hook.
-* **Dynamic Media Rendering:** Interactive 'Featured Projects' section where clicking a list item instantly updates the corresponding image and data.
-* **Custom Loading Screen:** A thematic pre-loader to ensure a smooth user experience while assets load.
-* **Fully Responsive:** Optimized layout for all devices (Mobile, Tablet, and Desktop) using Bootstrap's grid system.
+🌐 **[Visit WildGuard](https://ankit-wildguard.netlify.app/)**
 
-## 🛠️ Tech Stack & Libraries
-* **Framework:** React 19 (via Vite for lightning-fast HMR)
-* **Styling & UI:** React-Bootstrap, standard CSS3
-* **Icons:** React-Icons (FontAwesome)
-* **Animations:** AOS (Animate On Scroll), Typewriter-Effect
-* **Utilities:** React-Scroll (Navigation), React-Spinners (Loading UI)
+## ✨ Features
 
-## ⚙️ Local Setup & Installation
+* 🌿 Modern and responsive UI
+* ⚛️ React.js Single Page Application
+* 🎬 Scroll animations using AOS
+* ⌨️ Typewriter text effect
+* 🔢 Animated statistics counters
+* 🐘 Dynamic Featured Projects section
+* ⏳ Custom loading screen
+* 📱 Mobile, tablet & desktop responsive
 
-To run this project on your local machine, follow these steps:
+## 🛠️ Tech Stack
 
-1. **Clone the repository:**
-   ```bash
-   git clone [https://github.com/yourusername/wildguard.git](https://github.com/yourusername/wildguard.git)
+* **Frontend:** React.js 19, JavaScript ES6+
+* **Styling:** CSS3, React-Bootstrap
+* **Animations:** AOS, Typewriter Effect
+* **Icons:** React Icons
+* **Tools:** Vite, React Scroll, React Spinners
+
+## ⚙️ Run Locally
+
+```bash
+git clone https://github.com/YOUR-USERNAME/wildguard.git
+cd wildguard
+npm install
+npm run dev
+```
+
+Open:
+
+```text
+http://localhost:5173/
+```
+
+## 👨‍💻 Developer
+
+**Ankit Yadav**
+Frontend / React.js Developer
+
+* 🔗 [GitHub](https://github.com/Codingguru1965)
+* 💼 [LinkedIn](https://www.linkedin.com/in/ankit-yadav-814833351)
+* 🌐 [Live Website](https://ankit-wildguard.netlify.app/)
+
+---
+
+<p align="center">
+🌿 <b>Protect Wildlife. Preserve Nature. Protect Our Future.</b> 🌍
+</p>
