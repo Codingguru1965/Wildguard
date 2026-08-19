@@ -1,16 +1,30 @@
-# React + Vite
+# 🌿 WildGuard - Wildlife Conservation Initiative
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A modern, highly interactive, and fully responsive Single Page Application (SPA) dedicated to wildlife conservation and global habitat protection. 
 
-Currently, two official plugins are available:
+## 👨‍💻 Developed By / Team
+* **Ankit Yadav** - *Frontend Developer* (Sole contributor for this project)
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+## 🚀 Features
+* **Single Page Application (SPA):** Seamless smooth scrolling between sections without page reloads.
+* **Interactive Hero Section:** Eye-catching typewriter text effects for dynamic messaging.
+* **Scroll Animations:** Beautiful fade and zoom animations triggered on scroll using AOS.
+* **Custom Animated Counters:** Number counters that animate from zero to target values using a custom `IntersectionObserver` hook.
+* **Dynamic Media Rendering:** Interactive 'Featured Projects' section where clicking a list item instantly updates the corresponding image and data.
+* **Custom Loading Screen:** A thematic pre-loader to ensure a smooth user experience while assets load.
+* **Fully Responsive:** Optimized layout for all devices (Mobile, Tablet, and Desktop) using Bootstrap's grid system.
 
-## React Compiler
+## 🛠️ Tech Stack & Libraries
+* **Framework:** React 19 (via Vite for lightning-fast HMR)
+* **Styling & UI:** React-Bootstrap, standard CSS3
+* **Icons:** React-Icons (FontAwesome)
+* **Animations:** AOS (Animate On Scroll), Typewriter-Effect
+* **Utilities:** React-Scroll (Navigation), React-Spinners (Loading UI)
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+## ⚙️ Local Setup & Installation
 
-## Expanding the ESLint configuration
+To run this project on your local machine, follow these steps:
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+1. **Clone the repository:**
+   ```bash
+   git clone [https://github.com/yourusername/wildguard.git](https://github.com/yourusername/wildguard.git)
