@@ -25,21 +25,6 @@ A modern and responsive **React.js Single Page Application** focused on wildlife
 * **Icons:** React Icons
 * **Tools:** Vite, React Scroll, React Spinners
 
-## ⚙️ Run Locally
-
-```bash
-git clone https://github.com/YOUR-USERNAME/wildguard.git
-cd wildguard
-npm install
-npm run dev
-```
-
-Open:
-
-```text
-http://localhost:5173/
-```
-
 ## 👨‍💻 Developer
 
 **Ankit Yadav**
